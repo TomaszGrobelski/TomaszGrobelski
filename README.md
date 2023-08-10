@@ -7,4 +7,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,babel,webpack,vite,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,nodejs,babel,webpack,vite,ts,react)](https://skillicons.dev)
