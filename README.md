@@ -14,4 +14,4 @@
 
 <h3 align="left">Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,babel,webpack,vite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,babel,webpack,vite)](https://skillicons.dev)
