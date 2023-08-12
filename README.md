@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Front-End Developer based in Kraków, Poland</h2>
 
 
-<p align="left"></p>
+
 
 <h3 align="left">My Languages and Tools:</h3>
 
