@@ -4,6 +4,14 @@
 
 
 
-<h3 align="left">My Languages and Tools:</h3>
+<h3 align="left">Front-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,sass,nodejs,babel,webpack,vite,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,react)](https://skillicons.dev)
+
+<h3 align="left">Back-End:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+<h3 align="left">Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,babel,webpack,vite,git,seo,rwd)](https://skillicons.dev)
