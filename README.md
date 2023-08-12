@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, My name is Tomasz Grobelski</h1>
-<h3 align="center">I'm a Front-End Developer based in Kraków, Poland</h3>
+<h2 align="center">I'm a Front-End Developer based in Kraków, Poland</h2>
 
 
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h3 align="left">My Languages and Tools:</h3>
 
