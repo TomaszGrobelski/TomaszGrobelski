@@ -6,7 +6,7 @@
 
 <h3 align="left">Front-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react)](https://skillicons.dev)
 
 <h3 align="left">Back-End:</h3>
 
