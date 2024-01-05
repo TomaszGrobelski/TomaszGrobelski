@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react)](https://skillicons.dev)
 <h3 align="left">Back-End:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=node,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
