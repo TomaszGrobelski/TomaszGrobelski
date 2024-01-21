@@ -24,7 +24,7 @@
 ## Contact 
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif" alt="Email" style="vertical-align: middle;" />
+  <img src="https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif" alt="Email" />
   <a href="mailto:tomasz.grobelski98@gmail.com" style="font-size: 1.5em; text-decoration: none; vertical-align: middle;">tomasz.grobelski98@gmail.com</a>
 </p>
 
