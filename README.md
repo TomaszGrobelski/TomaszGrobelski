@@ -20,3 +20,8 @@
 - Portfolio
 - Booking
 - Nika
+
+## Contact 
+
+[![Email]([link_do_obrazka_skrzynki_pocztowej](https://icon-sets.iconify.design/ic/baseline-mail/))](tomasz.grobelski98@gmail.com)
+[![LinkedIn](link_do_obrazka_linkedin)](https://www.linkedin.com/in/tomasz-grobelski-6182b4145/)
