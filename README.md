@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Front-End Developer based in Kraków, Poland</h2>
 
 
-##My skills
+## My skills
 
 <h3 align="left">Front-End:</h3>
 
@@ -17,6 +17,6 @@
 
 ## Projects
 
--Portfolio
--Booking
--Nika
+- Portfolio
+- Booking
+- Nika
