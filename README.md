@@ -23,6 +23,6 @@
 
 ## Contact 
 
-[![Email](https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif)] tomasz.grobelski98@gmail.com
+![Email](https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif) tomasz.grobelski98@gmail.com
 
 [![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/tomasz-grobelski-6182b4145/)
