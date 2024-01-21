@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Front-End Developer based in Kraków, Poland</h2>
 
 
-
+##My skills
 
 <h3 align="left">Front-End:</h3>
 
@@ -14,3 +14,9 @@
 <h3 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,babel,webpack,vite)](https://skillicons.dev)
+
+## Projects
+
+-Portfolio
+-Booking
+-Nika
