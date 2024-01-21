@@ -23,9 +23,11 @@
 
 ## Contact 
 
-<p align="center" flex align center>
-  <img src="https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif" alt="Email" />
-  <p href="mailto:tomasz.grobelski98@gmail.com" style="font-size: 1.5em; text-decoration: none; vertical-align: middle;">tomasz.grobelski98@gmail.com</a>
+<p align="start">
+  <a href="mailto:tomasz.grobelski98@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif" alt="Email" style="vertical-align: middle;" />
+    <span style="font-size: 1.5em; vertical-align: middle;">tomasz.grobelski98@gmail.com</span>
+  </a>
 </p>
 
 [![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/tomasz-grobelski-6182b4145/)
