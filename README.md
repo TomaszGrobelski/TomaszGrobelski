@@ -23,5 +23,5 @@
 
 ## Contact 
 
-[![Email]([link_do_obrazka_skrzynki_pocztowej](https://icon-sets.iconify.design/ic/baseline-mail/))](tomasz.grobelski98@gmail.com)
-[![LinkedIn](link_do_obrazka_linkedin)](https://www.linkedin.com/in/tomasz-grobelski-6182b4145/)
+- [![Email](https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif)](tomasz.grobelski98@gmail.com)
+- [![LinkedIn](link_do_obrazka_linkedin)](https://www.linkedin.com/in/tomasz-grobelski-6182b4145/)
