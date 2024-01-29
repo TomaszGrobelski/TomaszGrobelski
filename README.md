@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My name is Tomasz Grobelski</h1>
-<h2 align="center">I'm a Front-End Developer based in Kraków, Poland</h2>
+<h1 align="center">My name is Tomasz Grobelski</h1>
+<h2 align="center">I create front-end websites using React. I invite you to check out my work and encourage you to work together. </h2>
 
 
 
@@ -25,10 +25,5 @@
 
 
 ## Contact 
-
-<p align="start">
-    <img src="https://img.icons8.com/?size=48&id=mXcvtsj8e1Ug&format=gif" alt="Email" style="vertical-align: middle;" />
-    <span style="font-size: 3rem; vertical-align: middle;">tomasz.grobelski98@gmail.com</span>
-</p>
 
 [![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/tomasz-grobelski-6182b4145/)
