@@ -1,5 +1,5 @@
 <h1 align="center">My name is Tomasz Grobelski</h1>
-<h2 align="center">As a junior front-end developer, I specialize in creating modern, responsive websites and applications using React. My journey in the world of programming is full of passion, commitment and constant striving to improve my skills. I am always open to new challenges and cooperation opportunities that allow me to develop as a programmer and creator. 
+<h2 align="start">As a junior front-end developer, I specialize in creating modern, responsive websites and applications using React. My journey in the world of programming is full of passion, commitment and constant striving to improve my skills. I am always open to new challenges and cooperation opportunities that allow me to develop as a programmer and creator. 
   <span>Check out my portfolio: <a href="https://portfolio-iota-eight-45.vercel.app/" target="_blank">Portfolio</a>   </span>
 </h2>
 
