@@ -21,7 +21,7 @@
 
 
 ## Projects
-- Notebook (Soon)
+- Notebook (In progress...)
 - Portfolio
 - Booking (MERN)
 - Nika
