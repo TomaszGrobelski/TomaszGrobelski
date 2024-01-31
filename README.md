@@ -23,7 +23,7 @@
 ## Projects
 
 - Portfolio
-- Booking
+- Booking (MERN)
 - Nika
 
 
