@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Tomasz+Grobelski!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines&color=red=I'm+Tomasz+Grobelski!;" />
 </h1>
 
-<h2 align="start">As a junior front-end developer, I specialize in creating modern, responsive websites and applications using React. My journey in the world of programming is full of passion, commitment and constant striving to improve my skills. I am always open to new challenges and cooperation opportunities that allow me to develop as a programmer and creator. 
+<h2 align="start">As a beginner front-end developer, I specialize in creating modern, responsive websites and applications using React. My journey in the world of programming is full of passion, commitment and constant striving to improve my skills. I am always open to new challenges and cooperation opportunities that allow me to develop as a programmer and creator. 
 <span style="margin-top: 20px;">Check out my portfolio: <a href="https://portfolio-iota-eight-45.vercel.app/" target="_blank">Portfolio</a>   </span>
 </h2>
 
