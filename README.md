@@ -25,7 +25,7 @@
 
 
 ## Projects
-- Notebook (In progress...)
+- Econowise (In progress...)
 - Portfolio
 - Booking (MERN)
 - Nika
