@@ -26,6 +26,7 @@
 
 ## Projects
 - Portfolio
+- BoGikeRide ( Current Project )
 - Booking (MERN)
 - Nika
 
